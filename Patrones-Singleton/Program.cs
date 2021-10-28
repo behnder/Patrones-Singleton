@@ -9,7 +9,15 @@ namespace Patrones_Singleton
             Conexion c = Conexion.GetInstancia();
             c.Conectar();
             c.Desconectar();
+
+
+            if (c is Conexion)
+            {
+                Console.WriteLine("es conexion");
+            }
             Console.ReadKey();
+
+
         }
     }
 }
