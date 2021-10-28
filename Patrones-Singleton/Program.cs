@@ -15,11 +15,7 @@ namespace Patrones_Singleton
             c2.Desconectar();
 
 
-            if (c is Conexion)
-            {
-                Console.WriteLine("es conexion");
-            }
-            Console.ReadKey();
+          
 
 
         }
