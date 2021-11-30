@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\unity\\Patrones-Singleton\\Patrones-Singleton\\Patrones-Singleton.csproj": {}
+    "E:\\unity\\quark\\Patrones\\Patrones-Singleton\\Patrones-Singleton\\Patrones-Singleton.csproj": {}
   },
   "projects": {
-    "E:\\unity\\Patrones-Singleton\\Patrones-Singleton\\Patrones-Singleton.csproj": {
+    "E:\\unity\\quark\\Patrones\\Patrones-Singleton\\Patrones-Singleton\\Patrones-Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\unity\\Patrones-Singleton\\Patrones-Singleton\\Patrones-Singleton.csproj",
+        "projectUniqueName": "E:\\unity\\quark\\Patrones\\Patrones-Singleton\\Patrones-Singleton\\Patrones-Singleton.csproj",
         "projectName": "Patrones-Singleton",
-        "projectPath": "E:\\unity\\Patrones-Singleton\\Patrones-Singleton\\Patrones-Singleton.csproj",
+        "projectPath": "E:\\unity\\quark\\Patrones\\Patrones-Singleton\\Patrones-Singleton\\Patrones-Singleton.csproj",
         "packagesPath": "C:\\Users\\Corvo\\.nuget\\packages\\",
-        "outputPath": "E:\\unity\\Patrones-Singleton\\Patrones-Singleton\\obj\\",
+        "outputPath": "E:\\unity\\quark\\Patrones\\Patrones-Singleton\\Patrones-Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Corvo\\AppData\\Roaming\\NuGet\\NuGet.Config",

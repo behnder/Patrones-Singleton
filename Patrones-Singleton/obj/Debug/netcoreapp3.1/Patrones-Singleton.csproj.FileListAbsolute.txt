@@ -12,3 +12,17 @@ E:\unity\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-
 E:\unity\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-Singleton.dll
 E:\unity\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-Singleton.pdb
 E:\unity\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-Singleton.genruntimeconfig.cache
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\bin\Debug\netcoreapp3.1\Patrones-Singleton.exe
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\bin\Debug\netcoreapp3.1\Patrones-Singleton.deps.json
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\bin\Debug\netcoreapp3.1\Patrones-Singleton.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\bin\Debug\netcoreapp3.1\Patrones-Singleton.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\bin\Debug\netcoreapp3.1\Patrones-Singleton.dll
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\bin\Debug\netcoreapp3.1\Patrones-Singleton.pdb
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-Singleton.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-Singleton.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-Singleton.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-Singleton.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-Singleton.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-Singleton.dll
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-Singleton.pdb
+E:\unity\quark\Patrones\Patrones-Singleton\Patrones-Singleton\obj\Debug\netcoreapp3.1\Patrones-Singleton.genruntimeconfig.cache

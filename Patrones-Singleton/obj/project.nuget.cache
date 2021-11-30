@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/C4u3fjMmsfDh50zDB/HQm23GN7Oob3/kNIrDCp8dvVToQ/xHbfF1MLMwDi08fw2ZsOWWQuhUENbWpwGxlM01A==",
+  "dgSpecHash": "Ti0nstEFnXcx5j8u4mFdhZHpwyWdNTciDA1CTDkDMSNQ628+n2Z/mHzAk1Ph05C/zCstfuCD3NJe5HDGFLGRmw==",
   "success": true,
-  "projectFilePath": "E:\\unity\\Patrones-Singleton\\Patrones-Singleton\\Patrones-Singleton.csproj",
+  "projectFilePath": "E:\\unity\\quark\\Patrones\\Patrones-Singleton\\Patrones-Singleton\\Patrones-Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

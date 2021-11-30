@@ -13,11 +13,6 @@ namespace Patrones_Singleton
             Conexion c2 = Conexion.GetInstancia();
             c2.Conectar();
             c2.Desconectar();
-
-
-          
-
-
         }
     }
 }
